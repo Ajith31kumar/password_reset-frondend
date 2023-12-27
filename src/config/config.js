@@ -1,3 +1,3 @@
 export const config = {
-   userApi: 'https://user-authen.onrender.com' 
+   userApi: 'https://password-reset-be-g7et.onrender.com' 
 }
